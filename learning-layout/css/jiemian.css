@@ -1,0 +1,97 @@
+*{
+	font-size:10px;
+}
+
+
+.head{
+	background-color: gray;
+	width: 100%;
+	overflow: hidden;
+}
+.middle{
+	margin: 0px auto;
+}
+.website{
+	float: right;
+	margin-right:60px;
+}
+a{
+	color:white;
+	margin-top: 900px；
+
+}
+h2{
+	color: white;
+	margin-left: 120px;
+	float:left;
+}
+
+.banner{
+	background-color: lightgreen;
+	width:100%; 
+	height:200px;
+}
+.xuhao{
+	margin-right: 60px;
+	box-sizing: border-box;
+	float: right;
+	margin-right: 110px;
+	margin-top: 165px;
+}
+span{
+	border: 1px solid black;
+	padding-top: 5px;
+	padding-right: 3px;
+	padding-left: 2px;
+	background-color: lightyellow;
+}
+
+
+.three{
+	display: flex;
+	margin-left: 100px;
+}
+.three div{
+	padding:15px;
+	border:1px solid lightgray;
+	margin-top: 30px;
+	border-top-left-radius: 1em;
+	border-top-right-radius: 1em;
+	background-color: lightgray;
+	border-bottom-color: white;
+}
+#home {
+	background-color: white;
+}
+
+hr {
+	color:lightgray;
+	margin:0 auto;
+}
+
+
+.content{
+	background-color: white;
+	width: 960px;
+	display:flex;
+	flex-wrap:wrap;
+	margin:0 auto;
+	
+}
+.content div{
+	background-color: white;
+	border:1px solid lightgray;
+	padding:80px;
+	flex: 1 10px;
+	margin: 10px;
+
+}
+.end{
+	background-color: gray;
+	width:100%;
+	padding-top: 20px;
+	padding-bottom: 130px;
+	text-align: center;
+	color: white;
+
+}
